@@ -34,7 +34,7 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=python,databse,js,html,css,git,github,vscode,figma,linux,tableau,powerbi" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github,vscode,figma,linux,tableau,powerbi" height="65" style="margin: 10px;" />
   </div>
 </div>
 
@@ -86,9 +86,9 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
         <img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>Systems</b><br><sub>Linux, VS Code, Git</sub>
       </td>
       <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br>
-  <b>Data Tools</b><br><sub>Power BI, Tableau, Excel</sub>
-</td>
+        <img src="https://skillicons.dev/icons?i=graph" width="40"/><br><b>Systems</b><br><sub>Power BI, Tableau, Excel</sub>
+      </td>
+      
     </tr>
   </table>
 
