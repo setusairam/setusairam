@@ -86,7 +86,7 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
         <img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>Systems</b><br><sub>Linux, VS Code, Git</sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=graph" width="40"/><br><b>Systems</b><br><sub>Power BI, Tableau, Excel</sub>
+        <img src="https://skillicons.dev/icons?i=graph" width="40"/><br><b>Tools</b><br><sub>Power BI, Tableau, Excel</sub>
       </td>
       
     </tr>
@@ -104,15 +104,15 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sirius-ar/">
+  <a href="https://www.linkedin.com/in/setusairam-y/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:nsai54817@gmail.com">
+  <a href="mailto:setusairam5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sirius54817">
+  <a href="https://github.com/setusairam">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" style="filter: drop-shadow(0 0 10px #00D4FF); margin: 10px;" />
   </a>
 
