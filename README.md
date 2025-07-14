@@ -13,8 +13,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=setusairam" alt="GitHub Streak" /></a>
-
 ## 👨‍💼 Summary
 
 Innovative and results-driven individual with a solid foundation in **Python, SQL, and Data Analytics**, combined with hands-on experience in building real-world applications and secure systems. Proficient in **ML, Prompt Engineering, and Linux** environments, with a passion for **turning insights into impactful solutions**. Known for **strong leadership, adaptability, and a curiosity-driven approach**, committed to contributing meaningfully to dynamic teams.
@@ -46,7 +44,7 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
         <img src="https://github-readme-stats.vercel.app/api?username=setusairam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=setusairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=setusairam&theme=dark" alt="GitHub Streak" /></a>
       </td>
     </tr>
     <tr>
