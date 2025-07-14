@@ -34,7 +34,7 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://skillicons.dev/icons?i=python,sql,js,html,css,git,github,vscode,figma,linux,tableau,powerbi" height="65" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=python,databse,js,html,css,git,github,vscode,figma,linux,tableau,powerbi" height="65" style="margin: 10px;" />
   </div>
 </div>
 
@@ -46,20 +46,20 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sirius54817&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=setusairam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=sirius54817&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=setusairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirius54817&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setusairam&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirius54817&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=setusairam&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" />
 </div>
 
 ---
@@ -67,7 +67,7 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sirius54817&theme=tokyonight&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=setusairam&theme=tokyonight&no-frame=true&margin-w=4" />
 </div>
 
 ---
