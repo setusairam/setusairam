@@ -13,6 +13,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## 👨‍💼 Summary
 
 Innovative and results-driven individual with a solid foundation in **Python, SQL, and Data Analytics**, combined with hands-on experience in building real-world applications and secure systems. Proficient in **ML, Prompt Engineering, and Linux** environments, with a passion for **turning insights into impactful solutions**. Known for **strong leadership, adaptability, and a curiosity-driven approach**, committed to contributing meaningfully to dynamic teams.
