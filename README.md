@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=setusairam)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=setusairam" alt="GitHub Streak" /></a>
 
 ## 👨‍💼 Summary
 
