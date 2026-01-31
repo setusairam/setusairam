@@ -38,18 +38,16 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setusairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=setusairam&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narla-Venkata-Anand-Sai-Kumar&theme=transparent" />
+  </a>
+  <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narla-Venkata-Anand-Sai-Kumar&hide_border=true&card_width=378&theme=transparent" />
+  </a>
+  <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Narla-Venkata-Anand-Sai-Kumar&theme=transparent" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setusairam&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=setusairam&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
 
 ---
 
