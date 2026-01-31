@@ -38,14 +38,14 @@ Innovative and results-driven individual with a solid foundation in **Python, SQ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narla-Venkata-Anand-Sai-Kumar&theme=transparent" />
+  <a href="https://github.com/setusairam">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=setusairam&theme=transparent" />
   </a>
-  <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narla-Venkata-Anand-Sai-Kumar&hide_border=true&card_width=378&theme=transparent" />
+  <a href="https://github.com/setusairam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=setusairam&hide_border=true&card_width=378&theme=transparent" />
   </a>
-  <a href="https://github.com/Narla-Venkata-Anand-Sai-Kumar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Narla-Venkata-Anand-Sai-Kumar&theme=transparent" />
+  <a href="https://github.com/setusairam">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=setusairam&theme=transparent" />
   </a>
 </p>
 
